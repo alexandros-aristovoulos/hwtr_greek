@@ -58,3 +58,4 @@ Perform calculations with arrays, load and read arrays from .npy files
 Display images and read their pixel values as arrays 
 
 - [Matplotlib](https://pypi.org/project/matplotlib/) <br>
+Display images
