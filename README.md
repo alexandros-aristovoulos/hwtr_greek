@@ -13,7 +13,7 @@ The final neural network that has the following characteristics: <br>
 - 2D convolutional layer 
     - 48 nodes
 - Max pooling function
-    -size 3x3
+    - size 3x3
 
 <u>**Hidden layers**</u> <br>
 - 3 2D convolutional layers
